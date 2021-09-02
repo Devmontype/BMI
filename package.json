@@ -1,0 +1,23 @@
+{
+  "name": "assesmentone",
+  "version": "1.0.0",
+  "description": "bmicalculator",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Devmontype/bmicalculator.git"
+  },
+  "author": "biswajit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Devmontype/bmicalculator/issues"
+  },
+  "homepage": "https://github.com/Devmontype/bmicalculator#readme",
+  "dependencies": {
+    "path": "^0.12.7",
+    "stream-json": "^1.7.1"
+  }
+}
